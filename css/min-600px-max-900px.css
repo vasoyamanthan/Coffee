@@ -1,0 +1,74 @@
+@media screen and (min-width:767px) and (max-width:1000px){
+    .sub-section-div .item-div h1 {
+        font-size: 47px;
+        text-align: center;
+        color: #fff;
+        font-weight: 600;
+    }
+    .sub-section-div .item-div p {
+        margin: 5% 0%;
+        font-size: 21px;
+        color: #fff;
+        width: 100%;
+        text-align: center;
+    }
+    .btn-div button {
+        background-color: transparent;
+        color: #fff;
+        font-weight: 900;
+        border: 2px solid white;
+        border-radius: 9px;
+        padding: 10px 26px;
+    }
+    .sub-section-div .item-div h2 {
+        font-size: 47px;
+        width: 90%;
+        text-align: left;
+        color: #fff;
+        font-weight: 600;
+    }
+    .header-img {
+        width: 7%;
+    }
+    .header-ul li a {
+        margin: 19px;
+        font-weight: 900;
+        text-decoration: none;
+        color: #fff;
+    }
+    .container {
+        width: 600px;
+        margin: 0 auto;
+    }
+    /* section--2 */
+    .sub-section-div1 .sub-div-h2 h2 {
+        font-size: 45px;
+        width: 44%;
+        position: absolute;
+        top: 15%;
+        font-weight: 900;
+    }
+    .png-img-div img {
+        width: 50%;
+        position: absolute;
+        top: -18%;
+        right: 5%;
+    }
+    .sub-section-div1 .sub-div-h2 p {
+        width: 60%;
+        font-size: 20px;
+        position: absolute;
+        top: 39%;
+        margin: 3% 0;
+    }
+    .div-btn-read button {
+        background-color: transparent;
+        border: 3px solid black;
+        padding: 13px 18px;
+        border-radius: 9px;
+        text-transform: uppercase;
+        font-weight: 600;
+        position: absolute;
+        top: 60%;
+    }
+}

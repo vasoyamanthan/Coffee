@@ -1,0 +1,35 @@
+/* @media screen and (min-width:900px) and (max-width:1200px) {
+    .sub-section-div1 .sub-div-h2 h1 {
+        font-size: 50px;
+        width: 45%;
+        position: absolute;
+        top: 15%;
+        font-weight: 900;
+        z-index: 1;
+    }
+
+    .container {
+        width: 600px;
+        margin: 0 auto;
+    }
+
+    .sub-section-div1 .sub-div-h2 p {
+        font-size: 20px;
+        margin-top: -10%;
+        width: 37%;
+        z-index: 1;
+    }
+
+    .div-btn-read button {
+        position: absolute;
+        top: 60%;
+    }
+
+    .png-img-div img {
+        width: 47%;
+        position: absolute;
+        top: -18%;
+        right: 0%;
+    }
+    
+} */

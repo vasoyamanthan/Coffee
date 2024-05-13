@@ -1,0 +1,109 @@
+@media screen and (max-width:767px) {
+    
+    .header-img {
+        width: 18%;
+    }
+    .sub-section-div .item-div h1 {
+        font-size: 3rem;
+        width: 99%;
+        text-align: center;
+        color: #fff;
+        font-weight: 700;
+    }
+    .header-btn {
+        font-size: 11px;
+        padding: 5px 17px;
+    }
+    .sub-section-div .item-div p {
+        margin: 5% 0%;
+        font-size: 15px;
+        text-align: center;
+        color: #fff;
+    }
+
+    .btn-div button {
+        background-color: transparent;
+        color: #fff;
+        font-size: 15px;
+        font-weight: 900;
+        border: 2px solid white;
+        border-radius: 9px;
+        padding: 8px 26px;
+        margin: 1% 0;
+
+    }
+    .sub-section-div {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 99%;
+        
+    }
+    .header-ul button{
+        display: block;
+    }
+    .li-Home-div{
+        display: none;
+    }
+    .header-section {
+        background-image: linear-gradient(rgba(37, 35, 35, 0.5), rgba(0, 0, 0, 0.5)), url('../img/08.jpg');
+        height: 900px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-y: center;
+        background-position-x: center;
+        width: 100%;
+    }
+    .container {
+        width: 300px;
+        margin: 0 auto;
+    }
+    .item-div {
+        margin-top: 150px;
+    }
+    /* section--2 */
+
+    .sub-section-div1 .sub-div-h2 h2 {
+        font-size: 50px;
+        width: 95%;
+        position: absolute;
+        top: 25%;
+        font-weight: 900;
+        z-index: 1;
+    }
+    .sub-section-div1 .sub-div-h2 p {
+        width: 80%;
+        font-size: 17px;
+        position: absolute;
+        top: 63%;
+        margin: 3% 0;
+        z-index: 1;
+    }
+    .div-btn-read button {
+        background-color: transparent;
+        border: 2px solid black;
+        padding: 10px 9px;
+        border-radius: 9px;
+        text-transform: uppercase;
+        font-weight: 600;
+        position: absolute;
+        top: 54%;
+    }
+    .png-img-div img {
+        width: 88%;
+        position: absolute;
+        top: -12%;
+        right: 0%;
+    }
+    .div-btn-read button {
+        background-color: transparent;
+        border: 2px solid black;
+        padding: 10px 9px;
+        border-radius: 9px;
+        text-transform: uppercase;
+        font-weight: 600;
+        position: absolute;
+        top: 90%;
+    }   
+}
